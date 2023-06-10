@@ -1,5 +1,5 @@
 # Data-Extraction-and-Text-Analysis
-This data analytic project focus on extracting data from URLs and performing text analysis on the extracted data to find variables
+This data analysis focus on extracting data from URLs and performing text analysis on the extracted data to find variables
     1. POSITIVE SCORE
     2. NEGATIVE SCORE
     3. POLARITY SCORE
